@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/ICTRai/04920cdd-d45e-4e6f-b695-29dd78c52cb5/2dfb7975-5843-41e3-a596-74e3827f9392/_apis/work/boardbadge/3994432f-5e33-4b8f-b789-5e536b881298)](https://dev.azure.com/ICTRai/04920cdd-d45e-4e6f-b695-29dd78c52cb5/_boards/board/t/2dfb7975-5843-41e3-a596-74e3827f9392/Microsoft.RequirementCategory)
 # appmodernization
